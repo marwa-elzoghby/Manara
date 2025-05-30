@@ -43,3 +43,4 @@ This project implements a fully serverless image processing pipeline where users
    ```bash
    aws s3 mb s3://source-for-uploaded-images
    aws s3 mb s3://destination-for-processed-images
+  
